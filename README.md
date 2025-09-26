@@ -24,7 +24,8 @@ Atualmente, estou expandindo minhas competências em **Business Intelligence** e
 
 ## 📫 Conecte-se comigo
 - 💼  https://www.linkedin.com/in/c%C3%A1ssia-gonzaga-0a69b868/   
-- 📧 [Email](cassiaferreira1987@hotmail.com)  
+- 📧 cassiaferreira1987@hotmail.com
+    
 
 ---
 
