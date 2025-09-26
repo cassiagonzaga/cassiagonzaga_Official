@@ -4,12 +4,12 @@
 
 Sou **Engenheira Informática** com experiência em supervisão e gestão de informação.  
 Tenho prática em **Telerik Reporting**, domínio de **SQL** e criação de relatórios.  
-Atualmente, estou expandindo minhas competências em **Business Intelligence** e **Data Analysis**, com foco em **Power BI e Análise de Dados**.
+Atualmente, estou expandindo minhas competências em **Business Intelligence** e **Data Analysis**, com foco em **Análise de Dados**.
 
 ---
 
 ## 🚀 Competências
-- **Visualização de Dados**: Telerik Reporting, Power BI e a posterior Tableau.
+- **Visualização de Dados**: Telerik Reporting, a posterior (Power BI e  Tableau).
 - **Banco de Dados & SQL**: consultas, modelagem e otimização  
 - **Gestão da Informação**: supervisão de processos, análise e relatórios  
 
